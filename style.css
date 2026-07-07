@@ -10,7 +10,7 @@ body{
     display:flex;
     justify-content:center;
     align-items:center;
-    background:linear-gradient(135deg,#74ebd5,#9face6);
+    background:linear-gradient(135deg,#3bd7bb,#264cf4);
 }
 
 .login-container{
