@@ -7,7 +7,7 @@ document.getElementById("loginForm").addEventListener("submit", function(event) 
 
     // Dummy credentials
     const validEmail = "admin@gmail.com";
-    const validPassword = "admin123";
+    const validPassword = "Admin@12345";
 
     if(email === validEmail && password === validPassword){
         message.style.color = "green";
